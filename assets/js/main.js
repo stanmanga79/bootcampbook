@@ -1,0 +1,1 @@
+console.log(`Bootcamp book is under construction.  Awesomeness to come..`)
